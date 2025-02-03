@@ -59,7 +59,8 @@ Key components for ML model:
 - **Software Engineering Considerations:**
     - Real-time vs batch processing.
     - Cloud vs edge/browser deployment.
-    - Compute resources: **CPU, GPU, memory**.
+    - Compute resources: 
+    - **CPU, GPU, memory**.
     - **Latency, throughput (QPS - queries per second)**.
     - **Logging, security, and privacy**.
 
